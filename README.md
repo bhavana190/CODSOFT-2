@@ -1,5 +1,5 @@
 # CODSOFT-2
 
-Portfolio
+Portfolio using HTML & CSS
 
-Click here to visit portfolio--->
+Click here to visit portfolio---> https://bhavana190.github.io/CODSOFT-2/
